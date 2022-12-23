@@ -104,12 +104,11 @@ class SuperBigObjectTest {
 ### How to use
 
 1. Install the dependencies listed in the [requirements](#requirements).
+1. Navigate to `src/main/java/velocity`
 1. Import the `testclass`, `include`, or `macros` templates in `Settings > TestMe > TestMe Templates`.
-1. Customize the behaviour of the template by using the settings available in IntelliJ:  
-`Settings > TestMe`.
+1. Customize the behaviour of the template by using the settings available in IntelliJ: `Settings > TestMe`.
 1. The plugin templates use the [Apache Velocity Engine](https://velocity.apache.org/) which is used for code-generation
    throughout IntelliJ IDEA.
-
 
 ### Additional ressources
 
